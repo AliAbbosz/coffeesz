@@ -1,0 +1,183 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.container {
+  width: 80%;
+  margin: auto;
+}
+
+.container2 {
+  width: 80%;
+  margin: auto;
+  text-align: center;
+}
+body {
+  font-family: "Montserrat", sans-serif;
+}
+.bobo {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 20px;
+}
+.rasm {
+  width: 40px;
+  height: 40px;
+  margin-right: 10px;
+  cursor: pointer;
+}
+img {
+  width: 150px;
+  height: 60px;
+}
+ul {
+  display: flex;
+  gap: 50px;
+}
+li {
+  list-style: none;
+}
+a {
+  font-weight: bold;
+  text-decoration: none;
+  color: black;
+}
+section {
+  background: url(https://cdn.shopify.com/s/files/1/0738/1409/products/subscription_6095fcca-65e3-45d7-87f0-9e7fa6cfa4a9.jpg?v=1661784005);
+  background-size: cover;
+  background-position: center;
+  height: 740px;
+  margin-top: 30px;
+}
+dir {
+  padding-top: 200px;
+  padding-left: 70px;
+}
+h5 {
+  padding-bottom: 25px;
+  font-size: 25px;
+}
+h1 {
+  font-size: 70px;
+}
+p {
+  font-size: 25px;
+  font-weight: lighter;
+  padding-top: 20px;
+}
+button {
+  margin-top: 30px;
+  width: 150px;
+  height: 35px;
+  border-radius: 20px;
+  font-size: 15px;
+  background-color: rgb(231, 180, 130);
+  border: none;
+  color: white;
+  cursor: pointer;
+  transition: 0.6s;
+}
+span {
+  color: chocolate;
+}
+a:hover {
+  color: rgb(231, 180, 130);
+}
+button:hover {
+  color: chocolate;
+  transition: 0.6s;
+}
+.container2 {
+  margin-top: 90px;
+  cursor: pointer;
+  filter: blur(20px);
+  transition: 0.6s;
+}
+.container2:hover {
+  background-color: antiquewhite;
+  padding: 15px;
+}
+.container2 img {
+  width: 200px;
+  height: 70px;
+}
+.container2:hover {
+  filter: none;
+  transition: 0.6s;
+}
+.container3 {
+  background-color: rgb(136, 67, 18);
+  padding: 30px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 150px;
+  text-align: center;
+}
+.qr {
+  width: 300px;
+  height: 350px;
+  border-radius: 30px;
+}
+h2 {
+  margin-top: 20px;
+  color: wheat;
+  font-size: 30px;
+}
+.we {
+  color: wheat;
+  font-size: 20px;
+}
+.ret {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 40px;
+  margin-top: 120px;
+  background: url(https://mindbodygreen-res.cloudinary.com/image/upload/c_crop,x_0,y_86,w_2300,h_1291/c_fill,w_2000,h_1200,g_auto,fl_lossy,f_jpg/org/4njob8trlkhkw71wg.jpg);
+  background-size: cover;
+  background-position: center;
+}
+.xz {
+  width: 550px;
+  height: 450px;
+  border-radius: 100px;
+  margin-left: 40px;
+}
+.da {
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+h5 {
+  font-size: 40px;
+}
+.tr {
+  font-size: 30px;
+}
+span {
+  color: chocolate;
+}
+.cv {
+  background-color: antiquewhite;
+}
+footer {
+ background-color: rgb(212, 197, 212);
+  padding: 25px;
+}
+.far {
+  width: 60px;
+  height: 60px;
+}
+.gt {
+  margin-left: 1400px;
+}
+.hy {
+  padding-top: 50px;
+}
+.vb {
+  font-size: 16px;
+  text-align: center;
+}
